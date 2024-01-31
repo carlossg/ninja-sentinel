@@ -15,7 +15,7 @@
     "node-uuid":"1.4.0",
     "tempodb":"latest",
     "twilio":"git+https://github.com/StephaneP/node-twilio.git",
-    "nodemailer":"0.3.35"
+    "nodemailer":"6.9.8"
 
   },
   "engines": {
